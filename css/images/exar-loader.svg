@@ -1,0 +1,15 @@
+<svg width="35" height="35" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" stroke="url(#_Linear1)" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M3 12a9 9 0 0 0 9 9a9 9 0 0 0 9 -9a9 9 0 0 0 -9 -9">
+        <animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 12 12" to="360 12 12" dur="1.5s" additive="sum" repeatCount="indefinite" />
+    </path>
+    <path d="M17 12a5 5 0 1 0 -5 5">
+        <animateTransform attributeType="xml" attributeName="transform" type="rotate" from="360 12 12" to="0 12 12" dur="1.33s" additive="sum" repeatCount="indefinite" />
+    </path>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse"
+                        gradientTransform="matrix(26.25,0,0,26.25,4.375,17.5)">
+            <stop offset="0" style="stop-color:#f0f;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#0097ff;stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+</svg>
