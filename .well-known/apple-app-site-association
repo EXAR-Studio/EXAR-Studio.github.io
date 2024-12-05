@@ -5,7 +5,7 @@
       {
         "appID": "1529034994.com.EXAR.EngageLondonART",
         "paths": [
-          "/open/*"
+          "/*"
         ]
       }
     ]
