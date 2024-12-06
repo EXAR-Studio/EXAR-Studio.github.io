@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.EXAR.EngageLondon_ART",
+      "sha256_cert_fingerprints": [
+        "D0:81:F1:E5:B6:34:0A:A9:B9:4A:C0:14:D0:85:11:84:94:0E:D1:56:62:48:53:13:FB:A9:CD:E8:84:34:79:1E"
+      ]
+    }
+  }
+]
