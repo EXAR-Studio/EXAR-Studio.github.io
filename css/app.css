@@ -617,8 +617,7 @@ input {
     display: flex;
     flex-direction: column;
     width: 100%;
-    position: fixed;
-    z-index: 70;
+    position: sticky;
     background-color: var(--neutrals-8);
     box-shadow: 0 12px 16px -8px var(--box-shadow);
 }
