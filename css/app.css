@@ -1,7 +1,57 @@
 ﻿/*normalize rendering between browsers*/
 @import url('https://unpkg.com/normalize.css');
-
 @import url('https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css');
+
+/*css reset from https://www.joshwcomeau.com/css/custom-css-reset/*/
+/* 1. Use a more-intuitive box-sizing model */
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+/* 2. Remove default margin */
+* {
+    margin: 0;
+}
+
+body {
+    /* 3. Add accessible line-height */
+    line-height: 1.5;
+    /* 4. Improve text rendering */
+    -webkit-font-smoothing: antialiased;
+}
+
+/* 5. Improve media defaults */
+img, picture, video, canvas, svg {
+    display: block;
+    max-width: 100%;
+}
+
+/* 6. Inherit fonts for form controls */
+input, button, textarea, select {
+    font: inherit;
+}
+
+/* 7. Avoid text overflows */
+p, h1, h2, h3, h4, h5, h6 {
+    overflow-wrap: break-word;
+}
+
+/* 8. Improve line wrapping */
+p {
+    text-wrap: pretty;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-wrap: balance;
+}
+
+/*
+  9. Create a root stacking context
+*/
+#root, #__next {
+    isolation: isolate;
+}
+
 
 @font-face {
     font-family: Poppins;
@@ -64,10 +114,8 @@
 
 /* ----- VARIABLES ----- */
 :root {
-    --primary-1: #6E69B5;
-    --primary-1-variant: rgba(110, 105, 181, 0.25);
-    --primary-2: #00C277;
-    --primary-2a: #DB46A2;
+    --primary-1: #FF6b00;
+    --primary-2: #f6a200;
     --primary-3: #512DFF;
     --primary-4: #332E80;
     --primary-3a: #000433;
@@ -97,9 +145,9 @@
 
     --UIFont: 'Poppins', ui-sans-serif;
 
-    --top-bar-height: 5rem;
+    --top-bar-height: 48px;
     --footer-height: 48px;
-    --top-bar-with-space: 7rem; /*-Top Bar +2rem-*/
+    --top-bar-with-space: calc(var(--top-bar-height) + 16px); /*-Top Bar +2rem-*/
 
     --cultured-orange: #F6A200;
 
@@ -377,6 +425,7 @@ input {
     pointer-events: auto;
 }
 
+
 .button {
     display: inline-flex;
     justify-content: center;
@@ -388,9 +437,43 @@ input {
     white-space: nowrap;
 }
 
+.button.plain {
+    background: none;
+    border: none;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+    padding: 0;
+    color: var(--secondary-1);
+}
+
+.button.regular.plain {
+    padding: 0;
+}
+
+.button.small.plain {
+    padding: 0;
+}
+
+.button.large.plain {
+    padding: 0;
+}
+
+.button.x-large.plain {
+    padding: 0;
+}
+
+.button.small {
+    padding: 4px 12px;
+    border-radius: 12px;
+    letter-spacing: 0.1em;
+    font-size: 8px;
+    line-height: 14px;
+}
+
 .button.regular {
     padding: 7px 20px;
-    border-radius: 20px;
+    border-radius: 8px;
     letter-spacing: 0.1em;
     font-size: 10px;
     line-height: 20px;
@@ -404,6 +487,13 @@ input {
 }
 
 .button.x-large {
+    padding: 7px 20px;
+    border-radius: 21px;
+    font-size: 16px;
+    line-height: 24px; /* 150% */
+}
+
+.button.xx-large {
     border-radius: 30px;
     padding: 12px 36px;
     font-size: 24px;
@@ -412,8 +502,8 @@ input {
 }
 
 .button.primary {
-    background: var(--primary-3);
-    border: 2px solid var(--primary-3);
+    background: var(--primary-1);
+    border: 2px solid var(--primary-1);
     color: var(--neutrals-white);
 }
 
@@ -423,32 +513,75 @@ input {
 
 .button.primary:hover {
     background: var(--neutrals-8);
-    border: 2px solid var(--primary-3);
-    color: var(--primary-3);
+    border: 2px solid var(--primary-1);
+    color: var(--primary-1);
 }
 
 .button.primary:hover * {
-    color: var(--primary-3);
+    color: var(--primary-1);
 }
 
 .button.secondary {
     background: transparent;
-    border: 2px solid var(--primary-3);
-    color: var(--primary-3);
+    border: 2px solid var(--primary-1);
+    color: var(--primary-1);
 }
 
 .button.secondary * {
-    color: var(--primary-3);
+    color: var(--primary-1);
 }
 
 .button.secondary:hover {
-    background: var(--primary-3);
-    border: 2px solid var(--primary-3);
+    background: var(--primary-1);
+    border: 2px solid var(--primary-1);
     color: var(--neutrals-8);
 }
 
 .button.secondary:hover * {
     color: var(--neutrals-8);
+}
+
+.button.disable {
+    background: var(--neutrals-4);
+    border: 2px solid var(--neutrals-4);
+    color: var(--neutrals-white);
+    cursor: default !important;
+}
+
+.button.disable * {
+    color: var(--neutrals-white);
+}
+
+.button.disable:hover {
+    background: var(--neutrals-4);
+    border: 2px solid var(--neutrals-4);
+    color: var(--neutrals-white);
+}
+
+.button.disable:hover * {
+    color: var(--neutrals-white);
+}
+
+
+.button.on {
+    background: var(--primary-3);
+    border: 2px solid var(--primary-3);
+    color: var(--neutrals-white);
+    cursor: revert !important;
+}
+
+.button.on * {
+    color: var(--neutrals-white);
+}
+
+.button.off {
+    background: transparent;
+    border: 0;
+    color: var(--primary-3);
+}
+
+.button.off * {
+    color: var(--primary-3);
 }
 
 .button.gray {
@@ -2254,4 +2387,9 @@ h3 .cardListHeader {
 
 *:hover > .showOnHover {
     display: unset
+}
+
+.logo {
+    height: 36px;
+    aspect-ratio: 4.4769503546;
 }
