@@ -761,7 +761,8 @@ a {
 }
 
 .topArea {
-    position: fixed;
+    position: sticky;
+    top: 0;
     display: flex;
     flex-direction: column;
     width: 100%;
@@ -785,6 +786,10 @@ footer {
     top: 0;
     width: 100%;
     height: 100%;
+}
+
+:target{
+    scroll-margin-top: var(--top-bar-with-space);
 }
 
 .valid.modified:not([type=checkbox]) {
@@ -1510,6 +1515,7 @@ input:checked + .slider {
     display: flex;
     flex-direction: column;
     gap: 8px;
+    scroll-margin-top: var(--top-bar-height);
 }
 
 select {
