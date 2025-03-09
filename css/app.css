@@ -425,6 +425,20 @@ input {
     pointer-events: auto;
 }
 
+table {
+    padding: 8px;
+    background-color: var(--neutrals-6);
+    border-radius: 12px;
+}
+
+th {
+    font-family: var(--UIFont);
+    font-weight: 400;
+}
+
+a {
+    color: var(--primary-3);
+}
 
 .button {
     display: inline-flex;
@@ -821,10 +835,6 @@ input, div {
 
 /********** starts here **********/
 
-a {
-    text-decoration: none;
-    color: #141416;
-}
 
 .overlay {
     position: fixed;
@@ -1365,14 +1375,9 @@ input:checked + .slider {
 }
 
 .list-spacer {
-    padding: var(--top-bar-with-space) var(--footer-height) 0;
-    min-height: 100%;
-}
-
-@media (max-width: 640.98px) {
-    .list-spacer {
-        padding: var(--top-bar-height) var(--footer-height) 0;;
-    }
+    padding-top: var(--top-bar-with-space);
+    padding-bottom: var(--footer-height);
+    min-height: 100dvh;
 }
 
 .full-height {
@@ -1498,10 +1503,13 @@ input:checked + .slider {
 
 .viewPage {
     width: 100%;
-    max-width: 1440px;
+    max-width: min(900px, 90dvw);
     justify-self: center;
     margin-left: auto;
     margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
 }
 
 select {
