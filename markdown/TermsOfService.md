@@ -18,7 +18,7 @@ Below is an overview of our Terms of Service for our “Platform”, which means
 
 ### Your Content and Content of Others
 
-* You are responsible for your “Content”, which means any information, material, or other content posted to our Platform. Your Content must comply with our Terms of Service, which includes the [Usage and Content Policies](#heading=h.33j5xwtz0pph).  
+* You are responsible for your “Content”, which means any information, material, or other content posted to our Platform. Your Content must comply with our Terms of Service, which includes the [Usage and Content Policies](https://cltrd.app/privacyPolicy.html#usage-and-content-policies).  
 * We do not own the Content that you post. However, we do require that you provide us a license to use this Content in order for us to operate, improve, promote, and protect EXAR Studios and our Platform for the benefit of you and others.  
 * We are not responsible for Content that users post or the communications that users send using our Platform. We generally don’t review Content before it’s posted. If you see Content that violates our Terms of Service, you may report inappropriate Content to us.
 
@@ -41,12 +41,12 @@ Last Updated: February 11, 2025
 | Summary: You agree to follow some basic rules when using EXAR Studios’ Platform. These rules are described in these Terms of Service, including the related policies and guidelines discussed below. We may change these rules. |
 | :---- |
 
-**1.1 The Agreement.** The Platform enables you and other users to join offline, real-world gatherings. The terms “EXAR,” “we,” “us,” and “our” include EXAR Studios Inc. and our corporate parent, affiliates, or subsidiaries. We use the terms “you” and “your” to mean any person using our Platform, and any organization or person using the Platform on an organization’s behalf. We use the word “Platform” to mean any website, application, or service offered by EXAR Studios, including content we offer and electronic communications we send. We provide our Platform to you subject to these Terms of Service. We use the terms “Terms of Service” and “Agreement” interchangeably to mean this document together with our [Usage and Content Policies](#heading=h.33j5xwtz0pph). Your use of the Platform signifies that you agree to this Agreement. If you are using the Platform for an organization, you agree to this Agreement on behalf of that organization, and represent you have authority to bind that organization to the terms contained in this Agreement. If you do not or are unable to agree to this Agreement, do not use our Platform.
+**1.1 The Agreement.** The Platform enables you and other users to join offline, real-world gatherings. The terms “EXAR,” “we,” “us,” and “our” include EXAR Studios Inc. and our corporate parent, affiliates, or subsidiaries. We use the terms “you” and “your” to mean any person using our Platform, and any organization or person using the Platform on an organization’s behalf. We use the word “Platform” to mean any website, application, or service offered by EXAR Studios, including content we offer and electronic communications we send. We provide our Platform to you subject to these Terms of Service. We use the terms “Terms of Service” and “Agreement” interchangeably to mean this document together with our [Usage and Content Policies](https://cltrd.app/privacyPolicy.html#usage-and-content-policies). Your use of the Platform signifies that you agree to this Agreement. If you are using the Platform for an organization, you agree to this Agreement on behalf of that organization, and represent you have authority to bind that organization to the terms contained in this Agreement. If you do not or are unable to agree to this Agreement, do not use our Platform.
 
 | Tip: We have included summaries and tips to provide an overview of some legal concepts and answer common questions, but the text of these summaries and tips are for your convenience only and do not have a legal effect. |
 | :---- |
 
-| Tip: These Terms of Service are an agreement between you and EXAR and not between you and any other user or subscriber. For more information, see our [FAQ page](https://cltrd.app/privacyPolicy.html) explaining the parties to our Terms of Service. |
+| Tip: These Terms of Service are an agreement between you and EXAR and not between you and any other user or subscriber. For more information, see our [FAQ page](https://cltrd.app/privacyPolicy.html#what-if-my-subscription-expires) explaining the parties to our Terms of Service. |
 | :---- |
 
 **1.2 Revisions to this Agreement.** We may modify this Agreement from time to time. When we do, we will provide notice to you by publishing the most current version and revising the date at the top of this page. If we make any material change to this Agreement, we will provide additional notice to you, such as by sending you an email or displaying a prominent notice on our Platform. By continuing to use the Platform after any changes come into effect, you agree to the revised Agreement. If you do not wish to accept the revised Agreement, you can close your account. 
@@ -99,10 +99,10 @@ Date: \_\_\_\_\_\_\_\_\_\_\_\_
 
 You represent and warrant that you are authorized to use the payment method you designate via the Platform. You authorize us (and our designated third-party payment processors) to charge your designated payment method for the total amount of any fees you owe to EXAR, including any applicable taxes and other charges. If the payment method cannot be verified, is invalid, or is otherwise not acceptable to us, your payment may be suspended or cancelled. We reserve the right to adjust, or to instruct our payment processors to make adjustments to a payment that has already been requested or received, in order to correct errors or mistakes, or to issue refunds.
 
-| Tip: To learn more about subscriptions and what happens if they expire, see this [FAQ on Expired Plans](#heading=h.881u3tpwcvak). |
+| Tip: To learn more about subscriptions and what happens if they expire, see this [FAQ on Expired Plans](https://cltrd.app/privacyPolicy.html#what-if-my-subscription-expires). |
 | :---- |
 
-**3.4 Automatic Subscription Renewals.** Fees for certain aspects of our Platform may be billed on either a recurring basis or on a one-time basis. If billed on a recurring basis, the fees are payable in advance of the applicable period specified via the Platform with no refunds. We will automatically bill you for each renewal period until cancellation. By purchasing any feature or other aspect of our Platform for which we charge, you authorize us to keep your payment current by charging the applicable fee to your credit card account (or any other means of payment used by you). While you may cancel auto-renewal or cancel your subscription at any time, refunds will be issued solely pursuant to our [Subscription Refund Policy](#heading=h.hll4ikduo751).
+**3.4 Automatic Subscription Renewals.** Fees for certain aspects of our Platform may be billed on either a recurring basis or on a one-time basis. If billed on a recurring basis, the fees are payable in advance of the applicable period specified via the Platform with no refunds. We will automatically bill you for each renewal period until cancellation. By purchasing any feature or other aspect of our Platform for which we charge, you authorize us to keep your payment current by charging the applicable fee to your credit card account (or any other means of payment used by you). While you may cancel auto-renewal or cancel your subscription at any time, refunds will be issued solely pursuant to our [Subscription Refund Policy](https://cltrd.app/privacyPolicy.html#subscription-refund-policy).
 
 **3.5 Free Trials.** We may offer free trials of subscriptions and other products on our Platform. We will inform you of the length of the free trial, your renewal period, and the date and amount of your first payment. After your free trial ends, your paid subscription will begin and we will automatically bill you for each renewal period until cancellation. You can cancel automatic subscription renewals at any time according to the terms and procedures described above. Users based in the European Union are entitled to cancel with a full refund within 14 days after signing up to our Platform by emailing us at support@exarstudios.com. See the reference cancellation text in Section 3.1. Please note that this 14-day period begins when the free trial starts.
 
@@ -112,7 +112,7 @@ You represent and warrant that you are authorized to use the payment method you 
 
 ### 4\. Your Content and Privacy
 
-| Summary: You are responsible for the Content you post on our Platform or send to us. You give us a license to use this Content to operate, improve, promote, and protect EXAR and our Platform. Our [Privacy Policy](#heading=h.2t870a38qrvn) explains how we collect and use information you provide about yourself and the information that may be associated with you, and explains the limited ways we may share this information. |
+| Summary: You are responsible for the Content you post on our Platform or send to us. You give us a license to use this Content to operate, improve, promote, and protect EXAR and our Platform. Our [Privacy Policy](https://cltrd.app/privacyPolicy.html) explains how we collect and use information you provide about yourself and the information that may be associated with you, and explains the limited ways we may share this information. |
 | :---- |
 
 **4.1 Your Content.** You are responsible for the Content that you post to the Platform or otherwise provide to EXAR. We use the word “Content” to mean the information, material, and any other content that you post to the Platform or otherwise send to us. Examples of your Content include:
@@ -126,7 +126,7 @@ By being responsible for your Content, you agree, among other things, that:
 * Your Content does not include personal, private or confidential information belonging to others; and  
 * Your Content does not otherwise violate the rights of any individual or entity.
 
-You also agree that you and your Content comply with this Agreement, including our [Usage and Content Policies](#heading=h.33j5xwtz0pph). You also agree that we may remove the metadata associated with your Content.
+You also agree that you and your Content comply with this Agreement, including our [Usage and Content Policies](https://cltrd.app/privacyPolicy.html#usage-and-content-policies). You also agree that we may remove the metadata associated with your Content.
 
 | Tip: Search engines may see public areas of the Platform. |
 | :---- |
@@ -136,7 +136,7 @@ You also agree that you and your Content comply with this Agreement, including o
 | Tip: This license doesn’t give us ownership of any of your Content. It simply gives us, users, and subscribers the right to use it on or related to the Platform. This license continues even if you close your account, because it’s necessary for us to operate the Platform. |
 | :---- |
 
-**4.3 Privacy.** EXAR collects registration and other information about you through our Platform. Please refer to our [Privacy Policy](#heading=h.2t870a38qrvn) for details on how we collect, use, and disclose this information. These policies do not govern use of information that you provide to third parties, such as to subscribers and other users of EXAR’s Platform.
+**4.3 Privacy.** EXAR collects registration and other information about you through our Platform. Please refer to our [Privacy Policy](https://cltrd.app/privacyPolicy.html) for details on how we collect, use, and disclose this information. These policies do not govern use of information that you provide to third parties, such as to subscribers and other users of EXAR’s Platform.
 
 | Tip: EXAR has no control over how other users and subscribers may use information that you provide to them, so you should exercise common sense and good judgment when sharing information with others on our Platform. |
 | :---- |
@@ -146,7 +146,7 @@ You also agree that you and your Content comply with this Agreement, including o
 | Summary: We require that you follow our policies and guidelines when using our Platform. We have no responsibility for Content that anyone posts to our Platform. |
 | :---- |
 
-**5.1 Our Policies, Guidelines and Applicable Laws.** When you use our Platform, we require that you follow the [Usage and Content Policies](#heading=h.33j5xwtz0pph). You also agree to comply with all applicable laws, rules and regulations, and to not violate or infringe the rights of any third party.
+**5.1 Our Policies, Guidelines and Applicable Laws.** When you use our Platform, we require that you follow the [Usage and Content Policies](https://cltrd.app/privacyPolicy.html#usage-and-content-policies). You also agree to comply with all applicable laws, rules and regulations, and to not violate or infringe the rights of any third party.
 
 In addition, your access to and use of some areas or features of the Platform may be subject to additional terms, policies, standards or guidelines (“Additional Terms”). You may be required to accept these Additional Terms before you can access these Platform areas and features. If there is a conflict between the Terms of Service and the Additional Terms, those Additional Terms will govern your access to and use of that Platform area or feature, unless otherwise specified in the Additional Terms.
 
@@ -212,7 +212,7 @@ To the full extent permitted by applicable law, you agree to indemnify, defend a
 
 **10.1 Intellectual Property of EXAR.** EXAR and Cultured trademarks, logos, service marks, and service names are the intellectual property of EXAR. Our Platform, including our material on the Platform, are also our or our licensors’ intellectual property. You agree not to use our intellectual property without our prior written consent.
 
-**10.2 Intellectual Property of Others.** EXAR respects the intellectual property of others, and we expect our users to do the same. We may, in appropriate circumstances and in our discretion, remove or disable access to material that we believe may infringe on the intellectual property rights of others. We may also restrict or terminate access to our Platform to those who we believe to be repeat infringers. If you believe your intellectual property rights have been violated, please review our [Usage and Content Policies](#heading=h.33j5xwtz0pph).
+**10.2 Intellectual Property of Others.** EXAR respects the intellectual property of others, and we expect our users to do the same. We may, in appropriate circumstances and in our discretion, remove or disable access to material that we believe may infringe on the intellectual property rights of others. We may also restrict or terminate access to our Platform to those who we believe to be repeat infringers. If you believe your intellectual property rights have been violated, please review our [Usage and Content Policies](https://cltrd.app/privacyPolicy.html#usage-and-content-policies).
 
 ### 11\. General Terms
 
@@ -222,7 +222,7 @@ To the full extent permitted by applicable law, you agree to indemnify, defend a
 
 **11.2 Notices.** Except as otherwise stated in this Agreement or as expressly required by law, any notice to us shall be given by certified postal mail to EXAR Studios, Inc., Attn: Legal Department, 148 Wortley Road, Unit B, London, Ontario, N6C 3P5, or by email to support@exarstudios.com. Any notice to you shall be given to the most current email address in your account.
 
-**11.3 Entire Agreement.** This Agreement, including the [Usage and Content Policies](#heading=h.33j5xwtz0pph), constitutes the entire agreement between you and EXAR, superseding any prior agreements between you and EXAR on such subject matter.
+**11.3 Entire Agreement.** This Agreement, including the [Usage and Content Policies](https://cltrd.app/privacyPolicy.html#usage-and-content-policies), constitutes the entire agreement between you and EXAR, superseding any prior agreements between you and EXAR on such subject matter.
 
 **11.4 No Agency.** No agency, partnership, joint venture, employee-employer or franchiser-franchisee relationship between you and EXAR is intended or created by this Agreement. An user or subscriber on the Platform is not EXAR’s representative or agent, and may not enter into an agreement on EXAR’s behalf.
 
