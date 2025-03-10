@@ -8,8 +8,14 @@ To make this Privacy Policy easier to understand, we have provided summaries in 
 
 ## 1\. Collection Of Information
 
-| Summary: We collect information about you when you: 1\. Create an account; 2\. Use the Platform; 3\. Sign up to and/or attend a gathering; 4\. Visit our website; and 5\. Communicate with us. We also collect information, such as usage statistics, by using cookies, server logs, and similar technologies. If you elect to use certain features, we also collect information through other sources, such as social media services, invitations, and imported contacts. |
+| Summary: We collect information about you when you: |
 | :---- |
+| 1\. Create an account; |
+| 2\. Use the Platform; |
+| 3\. Sign up to and/or attend a gathering; |
+| 4\. Visit our website; and |
+| 5\. Communicate with us. |
+| We also collect information, such as usage statistics, by using cookies, server logs, and similar technologies. If you elect to use certain features, we also collect information through other sources, such as social media services, invitations, and imported contacts. |
 
 **1.1 Information You Provide to Us.** We collect information that you provide directly to us. For example, we collect information that you provide when you create an account, choose interests, fill out a form, or communicate with us. The types of information that we may collect include identifiers, such as your name, username, password, email address, postal address, and phone number; payment and commercial information, such as payment method data and purchases, if any; demographic information and any other personal information that you choose to provide, such as photos, choices of interests, gender, date of birth, groups, and professional or employment-related information, including your role, company, and years of experience. Certain information about yourself, such as gender and date of birth, is optional to provide. Your choice of interests is also optional, but we are required to process this information in order to administer your account, and to indicate that you are attending gatherings that you join. See Section 2 to learn how we will use the information that you provide to personalize our recommendations and other content to you.
 

@@ -36,7 +36,9 @@ jobs:
       - name: Install Pandoc
         run: sudo apt-get update && sudo apt-get install -y pandoc
       - name: Run Markdown Script
-        run: cd workflows && ./markdown.sh
+        run: |
+          chmod +x ./workflows/markdown.sh
+          cd workflows && ./markdown.sh
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
