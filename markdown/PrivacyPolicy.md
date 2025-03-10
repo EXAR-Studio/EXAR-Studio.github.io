@@ -1,6 +1,6 @@
 # **Privacy Policy**
 
-Effective: Mar 15, 2025
+Effective: Mar 10, 2025
 
 Our Privacy Policy explains how EXAR collects, uses, and discloses information about you. The terms “EXAR,” “we,” “us,” and “our” include EXAR Studios Inc. and our affiliates. We use the terms “user,” “you,” and “your” to mean any person using our Platform or attending gatherings, including any organization or person using the Platform on an organization’s behalf. This Privacy Policy applies to the processing of information about individuals that we collect when you use our “Platform,” which means any website, application, or services we offer, or when you communicate with us. For information about choices you may have under this policy, please see “Your Choices” below. This Privacy Policy does not apply to the information that you may provide to third parties, such as individuals, and others with whom you may share information about yourself. For more information about the scope of our Privacy Policy, please see Section 4.4. 
 
