@@ -31,7 +31,7 @@ Below is an overview of our Terms of Service for our “Platform”, which means
 
 ## Terms of Service
 
-Last Updated: February 11, 2025
+Last Updated: March 10, 2025
 
 | Our Terms of Service contain important information about your legal rights. To make it easier to understand, we have provided summaries and tips in these gray boxes. These summaries are not part of the official terms, and it is important for you to read the language in each section carefully. |
 | :---- |
