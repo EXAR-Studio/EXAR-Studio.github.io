@@ -1,0 +1,249 @@
+# **Terms of Service**
+
+## Terms of Service Overview
+
+Below is an overview of our Terms of Service for our “Platform”, which means any website, application, or service we offer. You should read the complete Terms of Service because that document (and not this overview) is our legally binding agreement. The Terms of Service includes information about your legal rights and covers areas such as automatic subscription renewals, limitations of liability, resolution of disputes, and a class action waiver.
+
+### Your Relationship with EXAR Studios
+
+* By using our Platform, you are agreeing to our Terms of Service. The Terms of Service are a legally binding agreement between you and EXAR Studios.  
+* If you break the rules, we may suspend or terminate your account.  
+* We charge for certain aspects of our Platform, and some of these fees are billed on a regular and recurring basis (unless you cancel your subscription).
+
+### Gatherings, Subscribers and Users
+
+* Subscribers are permitted to deny entry and access to gatherings and other content they publish to any user.  
+* Subscribers may charge fees for gatherings and/or other products and services available at their gatherings.  
+* Using our Platform involves meeting real people and doing real things in the real world, which can sometimes lead to unexpected situations. We can’t control what happens in the real world, and we are not responsible for it. You should use common sense and good judgment when interacting with others.
+
+### Your Content and Content of Others
+
+* You are responsible for your “Content”, which means any information, material, or other content posted to our Platform. Your Content must comply with our Terms of Service, which includes the [Usage and Content Policies](#heading=h.33j5xwtz0pph).  
+* We do not own the Content that you post. However, we do require that you provide us a license to use this Content in order for us to operate, improve, promote, and protect EXAR Studios and our Platform for the benefit of you and others.  
+* We are not responsible for Content that users post or the communications that users send using our Platform. We generally don’t review Content before it’s posted. If you see Content that violates our Terms of Service, you may report inappropriate Content to us.
+
+### Our Platform
+
+* We try hard to make sure that our Platform is always available and working, but we cannot guarantee it will be. Occasionally things may not go exactly as planned. We apologize in advance for any inconvenience.  
+* We are continually improving our Platform. This means that we may modify or discontinue portions of our Platform.  
+* By using our Platform, you agree to the limitations of liability and release in our Terms of Service. You also agree to resolve any disputes you may have with us in the manner described in the Terms of Service. Claims can only be brought individually, and not as part of a class action.  
+* You may be based in a country where the laws that apply provide for different or additional rights and obligations. These Terms of Service will point out areas of difference.
+
+## Terms of Service
+
+Last Updated: February 11, 2025
+
+| Our Terms of Service contain important information about your legal rights. To make it easier to understand, we have provided summaries and tips in these gray boxes. These summaries are not part of the official terms, and it is important for you to read the language in each section carefully. |
+| :---- |
+
+### 1\. This Agreement
+
+| Summary: You agree to follow some basic rules when using EXAR Studios’ Platform. These rules are described in these Terms of Service, including the related policies and guidelines discussed below. We may change these rules. |
+| :---- |
+
+**1.1 The Agreement.** The Platform enables you and other users to join offline, real-world gatherings. The terms “EXAR,” “we,” “us,” and “our” include EXAR Studios Inc. and our corporate parent, affiliates, or subsidiaries. We use the terms “you” and “your” to mean any person using our Platform, and any organization or person using the Platform on an organization’s behalf. We use the word “Platform” to mean any website, application, or service offered by EXAR Studios, including content we offer and electronic communications we send. We provide our Platform to you subject to these Terms of Service. We use the terms “Terms of Service” and “Agreement” interchangeably to mean this document together with our [Usage and Content Policies](#heading=h.33j5xwtz0pph). Your use of the Platform signifies that you agree to this Agreement. If you are using the Platform for an organization, you agree to this Agreement on behalf of that organization, and represent you have authority to bind that organization to the terms contained in this Agreement. If you do not or are unable to agree to this Agreement, do not use our Platform.
+
+| Tip: We have included summaries and tips to provide an overview of some legal concepts and answer common questions, but the text of these summaries and tips are for your convenience only and do not have a legal effect. |
+| :---- |
+
+| Tip: These Terms of Service are an agreement between you and EXAR and not between you and any other user or subscriber. For more information, see our [FAQ page](https://cltrd.app/privacyPolicy.html) explaining the parties to our Terms of Service. |
+| :---- |
+
+**1.2 Revisions to this Agreement.** We may modify this Agreement from time to time. When we do, we will provide notice to you by publishing the most current version and revising the date at the top of this page. If we make any material change to this Agreement, we will provide additional notice to you, such as by sending you an email or displaying a prominent notice on our Platform. By continuing to use the Platform after any changes come into effect, you agree to the revised Agreement. If you do not wish to accept the revised Agreement, you can close your account. 
+
+### 2\. Your Account and Gatherings
+
+| Summary: You need to be at least 18 years old to use certain portions of our Platform. Subscribers control the Content and details of their Gatherings and other content. However, we may remove any Content you post or terminate your account at any time. |
+| :---- |
+
+**2.1 Eligibility.** Certain portions of our Platform are only available to users who are at least 18 years old. Additional eligibility requirements for a particular portion of our Platform may be set by any user who has the ability to moderate or manage that portion of our Platform. For example, the eligibility requirements for a Gathering may be set by the subscriber who published that Gathering.
+
+**2.2 Modification, Suspension, and Termination of Your Account.** We may modify, suspend, or terminate your account or access to the Platform if, in our sole discretion, we determine that you have violated this Agreement, including any of the policies or guidelines that are part of this Agreement, that it is in the best interest of our community, or to protect our brand or Platform. When this happens, we will notify you of the reasons for the modification, suspension, or termination. We also may remove accounts of users who are inactive for an extended period of time. Please email support@exarstudios.com if you believe the modification, suspension, or termination has occurred in error.
+
+A subscriber who has the ability to moderate or manage a particular portion of our Platform also has the ability, at his or her sole discretion, to modify, suspend, or terminate your access to that portion of the Platform.
+
+**2.3 Account Information and Security.** When you register, you provide us with some basic information, including an email address and a password. Keep your email address and other account information current and accurate. Also, you agree to maintain the security and confidentiality of your password (or else we may need to disable your account). We strongly encourage you to choose a strong and unique password that is not shared with any other account or online service and practice other healthy password security habits to help avoid unauthorized access to your account. You alone are responsible for anything that happens from your failure to maintain that security and confidentiality, such as by sharing your account credentials with others. If someone is using your password or accessing your account without your permission, email us at support@exarstudios.com.
+
+**2.4 License to the Platform and Services.** Subject to your compliance with this Agreement, EXAR grants you a limited, non-exclusive, revocable, non-sublicensable, non-transferable right to use the Platform in order to access and use the services and features that we make available to you.
+
+### 3\. Fees, Payments, and Offers
+
+| Summary: We charge for certain features on our Platform. If you’re a subscriber, you’re responsible for paying for subscription fees. These fees are billed on a regular and recurring basis (unless you cancel your subscription), and may change in the future. Additionally, some subscribers charge money for participation in a Gathering and/or other products and services provided by the subscriber. |
+| :---- |
+
+**3.1 Fees Charged by EXAR Studios.** Use of some of the features on our Platform is free, and we charge fees for other features. We may in the future implement a new fee, or modify an existing fee, for certain current or future features of our Platform. If we implement a new or modified fee, we will give you notice in advance such as by posting changes on our Platform or sending you an email. You agree to pay those fees and any associated taxes for your continued use of the applicable service. Unless otherwise stated, all fees and all transactions are in U.S. dollars. Platform subscriptions are non-transferable. Users based in the European Union or United Kingdom may cancel with a full refund within 14 days after signing up to our Platform. However, if you use the service, you may be charged for services provided during this 14-day period. Please note that this 14-day period begins when the service starts even if you are using a free trial.
+
+To cancel your subscription, please complete and submit the information below to EXAR by:
+
+Email:  
+support@exarstudios.com
+
+Mail:  
+EXAR Studios Inc.  
+\[Attn: Cancellation Request\]  
+148 Wortley Road, Unit B  
+London, Ontario  
+N6C 3P5
+
+Reference cancellation text:  
+I hereby give notice that I withdraw from my contract for the provision of the EXAR service.  
+Email address registered with the EXAR subscription to be cancelled: \_\_\_\_\_\_\_\_\_\_\_\_  
+Date: \_\_\_\_\_\_\_\_\_\_\_\_
+
+**3.2 Fees Charged by Subscribers.** Subscribers may impose fees related to gatherings, tours, and other content. These fees are solely the responsibility of the subscriber and will be processed outside of the Platform. Subscribers must include details about all fees, payment policies, and refund policies in the description of the content. EXAR bears no responsibility for these payments or the delivery of products and services by the subscribers.
+
+| Tip: You should use common sense in deciding whether to make a payment to any subscriber. We cannot ensure that subscribers will use payments as they promise or as you expect. You should check the refund policy of the subscriber before making any payments to a subscriber. |
+| :---- |
+
+**3.3 Payments to EXAR Studios.** Subscribers are responsible for paying subscription and any other applicable fees to EXAR on time and through our approved payment methods. Subscribers who allow their subscription to lapse are subject to removal from the Platform. You may only pay subscription fees to EXAR using a valid payment method acceptable to us, as specified via the Platform. If we terminate, suspend, or remove your account in connection with violation of this Agreement, we are not obligated to refund any subscription fees paid to EXAR. In addition, if you paid your subscription fees through the app for iOS, your payment is subject to the [Apple Media Services Terms](https://www.apple.com/legal/internet-services/itunes/us/terms.html) and Conditions, and you will need to submit your request for a refund to Apple.    
+
+You represent and warrant that you are authorized to use the payment method you designate via the Platform. You authorize us (and our designated third-party payment processors) to charge your designated payment method for the total amount of any fees you owe to EXAR, including any applicable taxes and other charges. If the payment method cannot be verified, is invalid, or is otherwise not acceptable to us, your payment may be suspended or cancelled. We reserve the right to adjust, or to instruct our payment processors to make adjustments to a payment that has already been requested or received, in order to correct errors or mistakes, or to issue refunds.
+
+| Tip: To learn more about subscriptions and what happens if they expire, see this [FAQ on Expired Plans](#heading=h.881u3tpwcvak). |
+| :---- |
+
+**3.4 Automatic Subscription Renewals.** Fees for certain aspects of our Platform may be billed on either a recurring basis or on a one-time basis. If billed on a recurring basis, the fees are payable in advance of the applicable period specified via the Platform with no refunds. We will automatically bill you for each renewal period until cancellation. By purchasing any feature or other aspect of our Platform for which we charge, you authorize us to keep your payment current by charging the applicable fee to your credit card account (or any other means of payment used by you). While you may cancel auto-renewal or cancel your subscription at any time, refunds will be issued solely pursuant to our [Subscription Refund Policy](#heading=h.hll4ikduo751).
+
+**3.5 Free Trials.** We may offer free trials of subscriptions and other products on our Platform. We will inform you of the length of the free trial, your renewal period, and the date and amount of your first payment. After your free trial ends, your paid subscription will begin and we will automatically bill you for each renewal period until cancellation. You can cancel automatic subscription renewals at any time according to the terms and procedures described above. Users based in the European Union are entitled to cancel with a full refund within 14 days after signing up to our Platform by emailing us at support@exarstudios.com. See the reference cancellation text in Section 3.1. Please note that this 14-day period begins when the free trial starts.
+
+**3.6 Third Party Payment Processors.** A subscriber that accepts payments from users must comply with the terms and conditions of the third party provider of the applicable payment service used to receive the payment. EXAR does not provide those payment services, is not a party to your agreement with the applicable third-party provider, and will not be liable or responsible for your use of those third-party payment services.
+
+**3.7 Invoices from Third Parties.** In line with the tax laws of the country where a subscriber is using the Platform, a subscriber may receive EXAR invoices from a third party provider. Such third party provider invoicing does not in any way impact the rights and obligations agreed to in this Agreement, nor does it impact the fee being charged for the use of the Platform.
+
+### 4\. Your Content and Privacy
+
+| Summary: You are responsible for the Content you post on our Platform or send to us. You give us a license to use this Content to operate, improve, promote, and protect EXAR and our Platform. Our [Privacy Policy](#heading=h.2t870a38qrvn) explains how we collect and use information you provide about yourself and the information that may be associated with you, and explains the limited ways we may share this information. |
+| :---- |
+
+**4.1 Your Content.** You are responsible for the Content that you post to the Platform or otherwise provide to EXAR. We use the word “Content” to mean the information, material, and any other content that you post to the Platform or otherwise send to us. Examples of your Content include:
+
+* The material that subscribers and individuals typically post to the Platform, such as information about Gatherings, comments, and messages;  
+* All feedback, suggestions, and other communications that you send or direct to EXAR.
+
+By being responsible for your Content, you agree, among other things, that:
+
+* You have all the permissions, rights, and licenses needed (including under copyrights, trademarks, contract rights, privacy rights, or publicity rights) to provide the Content to the Platform and to EXAR;   
+* Your Content does not include personal, private or confidential information belonging to others; and  
+* Your Content does not otherwise violate the rights of any individual or entity.
+
+You also agree that you and your Content comply with this Agreement, including our [Usage and Content Policies](#heading=h.33j5xwtz0pph). You also agree that we may remove the metadata associated with your Content.
+
+| Tip: Search engines may see public areas of the Platform. |
+| :---- |
+
+**4.2 Content License from You.** We do not claim ownership of your Content. However, to enable us to operate, improve, promote, and protect EXAR and our Platform, and to ensure we do not violate any rights you may have in your Content, you hereby grant EXAR a non-exclusive, worldwide, perpetual, irrevocable, royalty-free, sublicensable, transferable right and license (including a waiver of any moral rights) to use, host, store, reproduce, modify, publish, publicly display, publicly perform, distribute, and create derivative works of, your Content and to commercialize and exploit the copyright, trademark, publicity, and database rights you have in your Content. This license would permit your Content to remain on the Platform, even after you cease to be a user or subscriber of the Platform.
+
+| Tip: This license doesn’t give us ownership of any of your Content. It simply gives us, users, and subscribers the right to use it on or related to the Platform. This license continues even if you close your account, because it’s necessary for us to operate the Platform. |
+| :---- |
+
+**4.3 Privacy.** EXAR collects registration and other information about you through our Platform. Please refer to our [Privacy Policy](#heading=h.2t870a38qrvn) for details on how we collect, use, and disclose this information. These policies do not govern use of information that you provide to third parties, such as to subscribers and other users of EXAR’s Platform.
+
+| Tip: EXAR has no control over how other users and subscribers may use information that you provide to them, so you should exercise common sense and good judgment when sharing information with others on our Platform. |
+| :---- |
+
+### 5\. Your Use of Our Platform
+
+| Summary: We require that you follow our policies and guidelines when using our Platform. We have no responsibility for Content that anyone posts to our Platform. |
+| :---- |
+
+**5.1 Our Policies, Guidelines and Applicable Laws.** When you use our Platform, we require that you follow the [Usage and Content Policies](#heading=h.33j5xwtz0pph). You also agree to comply with all applicable laws, rules and regulations, and to not violate or infringe the rights of any third party.
+
+In addition, your access to and use of some areas or features of the Platform may be subject to additional terms, policies, standards or guidelines (“Additional Terms”). You may be required to accept these Additional Terms before you can access these Platform areas and features. If there is a conflict between the Terms of Service and the Additional Terms, those Additional Terms will govern your access to and use of that Platform area or feature, unless otherwise specified in the Additional Terms.
+
+When the Platform uses third party services to provide certain features and services for our users, our users may be required to comply with the terms of service that apply to these features and services.
+
+If you do not comply, we may modify, suspend, or terminate your account or access to the Platform, in our sole discretion, and we will provide you with reasons for the modification, suspension, or termination. Please email support@exarstudios.com if you believe the modification, suspension, or termination has occurred in error.
+
+**5.2 Content of Others.** EXAR does not control the Content of other users. When we become aware of inappropriate Content on our Platform, we reserve the right to investigate and take appropriate action, but we do not have any obligation to monitor, nor do we take responsibility for, the Content of other users.
+
+**5.3 Interactions with Others.** EXAR is not a party to any offline arrangements made through our Platform. EXAR does not conduct or require background checks on individuals and does not attempt to verify the truth or accuracy of statements made by users or subscribers. EXAR makes no representations or warranties concerning the conduct or Content of any users or subscribers or their interactions with you.
+
+Tip: Exercise common sense and good judgment when using our Platform and interacting with other users and subscribers, both on our Platform and at Gatherings. If you have a concern regarding other users or subscribers, you can report it to support@exarstudios.com.
+
+**5.4 Prohibited Uses of the Platform.** Our Platform contains proprietary and confidential information and is protected by intellectual property and other laws. Unless we expressly permit it through this Agreement, you agree that you will not, either directly or indirectly (a) use, host, store, reproduce, modify, publish, publicly display, publicly perform, distribute, or create derivative works of the Platform, or any portion of the Platform; (b) remove or alter the proprietary notices on the Platform; (c) reverse engineer, disassemble, decompile, or attempt to discover the source code or structure, sequence, and organization of the Platform; and (d) rent, lease, resell, distribute, or use the Platform for commercial purposes that are not contemplated by this Agreement. You also agree that you will not use the Platform to solicit or collect (i) personal data from others except as necessary for the administration of or participation in a Gathering or (ii) sensitive personal data, as defined or treated as such under applicable law (including, by way of example only, health information and social security numbers and other government identifiers). In addition, you agree that you will comply with the export control laws of your local jurisdiction. You also represent and warrant that you are not located in a country that is subject to a U.S. government embargo or that has been designated by the U.S. government as a “terrorist supporting” country, and that you are not listed on any U.S. government list of prohibited or restricted parties.
+
+**5.5 Platform Safety and Security.** You agree that you will not, either directly or indirectly, (a) extract data from the Platform for a commercial purpose not permitted by these Terms of Service, whether through use of an automated system or software, and whether operated by a third party or otherwise (“screen scraping,” “data scraping,” or “web scraping”); (b) engage in any activity  that interferes with or disrupts, that is designed to interfere with or disrupt, or imposes undue burdens on the Platform or its systems.
+
+You agree to use, retain, and otherwise process personal data collected from the Platform in accordance with applicable laws, rules, and regulations and solely for purposes of administering and participating in Gatherings. Without limitation, you agree to provide notice to users about your processing of their personal data, to obtain any necessary consents, and to respond to requests made by users as required by applicable law. You also agree to safeguard such data from unauthorized access or processing. You must delete such personal data once it is no longer strictly necessary for the administration of a Gathering or promptly following a request from EXAR, and you will promptly certify to such deletion. 
+
+**5.6 Platform Modifications.** We work hard to continuously improve our Platform. This means that we may modify or discontinue portions or all of our Platform with or without notice and without liability to you or any third party.
+
+**5.7 Third Party Sites and Services.** The Platform contains links to third party sites, and is integrated with various third party services, applications and sites that may make available to you their content and products. We don’t control these third parties and aren’t responsible for those sites or services or their content or products. These third parties may have their own terms and policies, and your use of them will be governed by those terms and policies. You do not have a license to use the intellectual property of third parties merely by way of your access to our Platform.
+
+### 6\. Release
+
+| Summary: To the full extent permitted by applicable law, you agree not to hold us responsible for anything that happens related to transactions with third parties, user and subscriber interactions, or in connection with a Gathering. You also agree not to hold subscribers responsible for their negligence in connection with their Content or a Gathering. |
+| :---- |
+
+To the full extent permitted by applicable law, you agree to release us and our officers, directors, shareholders, agents, employees, consultants, corporate parents, affiliates, subsidiaries, sponsors, and other third-party partners ( “EXAR Parties”) from claims, demands, and damages (direct and consequential) (“Claims”), arising out of or in any way connected with any transaction with a third party, your interactions with other users or subscribers, or in connection with a Gathering. You also agree, to the full extent permitted by applicable law, to release subscribers from Claims based on a subscriber's negligence arising out of or in any way connected with their Content or a Gathering. The law in some countries and states do not allow the release, so these limits may not apply to you. You waive and relinquish all rights and benefits that you have or may have under Section 1542 of the California Civil Code or any similar provision of statutory or non-statutory law of any other jurisdiction to the fullest extent permitted by law. 
+
+You acknowledge that some Gatherings carry inherent dangers, such as the risk of illness, bodily injury, disability, or death. By participating, you understand and agree that you have freely chosen to assume these risks.
+
+### 7\. Indemnification
+
+| Summary: To the full extent permitted by applicable law, you agree to reimburse us if we get sued in connection with your use of our Platform. |
+| :---- |
+
+To the full extent permitted by applicable law, you agree to indemnify, defend and hold all EXAR Parties harmless from any Claims, made by any third party due to or arising out of (a) your violations of this Agreement, (b) your use, misuse, or abuse of our Platform, (c) your Content, (d) your violation of any law, statute, ordinance or regulation or the rights of a third party, or (e) your participation or conduct in a Gathering that violates this Agreement. You agree to promptly notify us of any third party Claims, cooperate with all EXAR Parties in defending such Claims, and pay all fees, costs and expenses associated with defending such Claims (including, but not limited to, attorneys’ fees). You agree not to settle any Claim without our prior written consent.
+
+### 8\. Warranty Disclaimer and Limitation of Liability
+
+| Summary: Our Platform is provided to you “as is” and we make no warranties of any kind with respect to our Platform. Our liability in connection with the Platform is limited to the fees you paid to us in the 12 months preceding the claim or $100, whichever is greater. |
+| :---- |
+
+**8.1 Warranty Disclaimer.** Our Platform is provided to you “as is” and on an “as available” basis. To the full extent permitted by applicable law, we disclaim all warranties and conditions of any kind, including but not limited to statutory warranties, and the implied warranties of merchantability, fitness for a particular purpose, and non-infringement. We also disclaim any warranties regarding (a) the reliability, timeliness, accuracy, and performance of our Platform, (b) any information, advice, services, or goods obtained through or advertised on our Platform or by us, as well as for any information or advice received through any links to other websites or resources provided through our Platform, (c) the results that may be obtained from the Platform, and (d) the correction of any errors in the Platform, (e) any material or data obtained through the use of our Platform, and (f) dealings with or as the result of the presence of marketing partners or other third parties on or located through our Platform. You may have additional rights under the law of the country in which you are based. You agree that the duration of such additional rights will be limited to the full extent permitted by such law.
+
+**8.2 Limitation of Liability.** To the full extent permitted by applicable law, you agree that in no event shall any EXAR Parties be liable for any direct, indirect, incidental, special, or consequential damages, including but not limited to, damages for loss of profits, goodwill, use, data, or other intangible losses (even if any EXAR Parties have been advised of the possibility of such damages) arising out of or in connection with (a) our Platform or this Agreement or the inability to use our Platform (however arising, including our negligence), (b) statements or conduct of or transactions with any user, subscriber, or third party on the Platform, (c) your use of our Platform or transportation to or from Gatherings, attendance at Gatherings, participation in or exclusion from Gatherings and the actions of you or others at Gatherings, or (d) any other matter relating to the Platform. Our liability to you or any third parties in any circumstance is limited to the greater of $100 or the amount of fees, if any, you paid to us in the 12 months prior to the action that may give rise to liability. The limitations set forth above in this Section 8 will not limit or exclude liability for our gross negligence, fraud, or intentional, malicious, or reckless misconduct. Some laws do not allow the limitation or exclusion of liability, so these limits may not apply to you. If you are an individual based in the EU, you have legal remedies if we cause you loss by our breach or non-performance of our legal obligations, or by our negligence, and these terms do not affect those statutory remedies. 
+
+### 9\. Dispute Resolution
+
+| Summary: If you have a dispute with EXAR, you agree to try to work it out directly with us first. Claims can only be brought individually, and not as part of a class action. Users and subscribers based in the European Union may have additional or different rights, as provided by applicable law. EXAR has no obligation to get involved with any disputes you have with other users or subscribers, although we may try to facilitate a resolution. |
+| :---- |
+
+**9.1 Informal Resolution.** Before making any claim, you and EXAR agree to try to resolve any disputes through good faith discussions. We use the term “claim” in this Section 9 to mean any dispute, claim or controversy arising out of or relating to your use of our Platform or this Agreement, including your participation in Gatherings. You or EXAR may initiate this process by sending written notice according to Section 11.2 describing the dispute and your proposed resolution. In the event that we cannot resolve the issue within 30 business days following receipt of the initial notice, you or EXAR may bring a claim in accordance with this Section 9\. Users and subscribers based in the European Union may have additional or different rights, as provided by applicable law.
+
+**9.2 Exceptions.** You or EXAR may assert claims, if they qualify, in small claims court in London, Ontario or any city where you live or work. You or EXAR may seek injunctive relief from a court of competent jurisdiction in London, Ontario as necessary to protect the intellectual property rights of you or EXAR. EXAR may take action in court or arbitration to collect any fees or recover damages for, or to seek injunctive relief relating to, Platform operations, or unauthorized use of our Platform or intellectual property. Nothing in this Section 9 shall diminish EXAR’s right to modify, suspend or terminate your account or access to our Platform under Section 2.2.
+
+**9.3 Class Action Waiver.** You agree to resolve disputes with EXAR on an individual basis. You agree not to bring a claim as a plaintiff or a class member in a class, consolidated, or representative action. **You are expressly waiving any right to participate in class actions, class arbitrations, private attorney general actions, and consolidation with other arbitrations.**
+
+**9.4 Dispute Resolution Terms Applicable to Individuals Based in the EU.** If you are an individual based in the European Union, the mandatory provisions of the law of the country in which you are resident will apply. Nothing in this Agreement will affect your rights as a consumer to rely on the mandatory provisions of the local law that applies. If you are based in the European Union, the local laws in your European Union Member State may allow you to take legal action against EXAR in your Member State and to invoke certain local laws against EXAR. The European Commission provides for an [online dispute resolution platform](http://ec.europa.eu/consumers/odr).
+
+### 10\. Intellectual Property
+
+**10.1 Intellectual Property of EXAR.** EXAR and Cultured trademarks, logos, service marks, and service names are the intellectual property of EXAR. Our Platform, including our material on the Platform, are also our or our licensors’ intellectual property. You agree not to use our intellectual property without our prior written consent.
+
+**10.2 Intellectual Property of Others.** EXAR respects the intellectual property of others, and we expect our users to do the same. We may, in appropriate circumstances and in our discretion, remove or disable access to material that we believe may infringe on the intellectual property rights of others. We may also restrict or terminate access to our Platform to those who we believe to be repeat infringers. If you believe your intellectual property rights have been violated, please review our [Usage and Content Policies](#heading=h.33j5xwtz0pph).
+
+### 11\. General Terms
+
+**Summary:** This section contains terms we have added for miscellaneous purposes. Please continue to read this section carefully.
+
+**11.1 Translation.** This Agreement was written in English. It was then translated into other languages. If there is any inconsistency between the English version and a translated version, the English language version controls. 
+
+**11.2 Notices.** Except as otherwise stated in this Agreement or as expressly required by law, any notice to us shall be given by certified postal mail to EXAR Studios, Inc., Attn: Legal Department, 148 Wortley Road, Unit B, London, Ontario, N6C 3P5, or by email to support@exarstudios.com. Any notice to you shall be given to the most current email address in your account.
+
+**11.3 Entire Agreement.** This Agreement, including the [Usage and Content Policies](#heading=h.33j5xwtz0pph), constitutes the entire agreement between you and EXAR, superseding any prior agreements between you and EXAR on such subject matter.
+
+**11.4 No Agency.** No agency, partnership, joint venture, employee-employer or franchiser-franchisee relationship between you and EXAR is intended or created by this Agreement. An user or subscriber on the Platform is not EXAR’s representative or agent, and may not enter into an agreement on EXAR’s behalf.
+
+**11.5 Governing Law.** This Agreement and the relationship between you and EXAR shall be governed by the laws of the Province of Ontario without regard to its conflict of laws provisions, except as provided in Section 9\. 
+
+**11.6 Judicial Forum.** You and EXAR agree that any judicial proceedings (other than small claims actions) must be brought exclusively in the federal or provincial courts located in Ontario, and you and EXAR agree to venue and personal jurisdiction in those courts.
+
+If you are an individual based in the European Union, you may bring judicial proceedings against us arising from or in connection with this Agreement in your country of residence. In addition, for individuals based in the European Union, the European Commission provides for an [online dispute resolution platform](http://ec.europa.eu/consumers/odr/).
+
+**11.7 Time for Filing.** Any claim not subject to arbitration must be commenced within one year after the date the party asserting the claim first knows or should know of the act, omission or default giving rise to the claim, or the shortest time period permitted by applicable law. This clause does not apply to you if you are based in the European Union. 
+
+**11.8 Assignment.** This Agreement is not assignable, transferable, or sublicensable by you except with EXAR’s prior written consent, but may be assigned or transferred by us to our corporate parent or any affiliate or subsidiary, or in connection with a merger, acquisition, corporate reorganization, sale of all or substantially all of EXAR’s assets, or similar transaction.
+
+**11.9 No Waiver.** A party’s failure to exercise or enforce any right or provision of this Agreement shall not constitute a waiver of such right or provision and does not waive any right to act with respect to subsequent or similar breaches.
+
+**11.10 Severance.** If any provision of this Agreement is found to be invalid by a court of competent jurisdiction, you and EXAR nevertheless agree that the court should endeavor to give effect to the parties’ intentions as reflected in the provision, and that the other provisions of this Agreement will remain in full force and effect.
+
+**11.12 Termination.** If we terminate your account or access to our Platform, this Agreement terminates with respect to the individual account that has been terminated, provided that the provisions listed in Section 11.13 will survive such termination.
+
+**11.13 Survival.** Sections 3 (Fees, Payments, and Offers), 4.2 (Content License from You), 4.3 (Privacy), 6 (Release), 7 (Indemnification), 8 (Warranty Disclaimer and Limitation of Liability), 9 (Dispute Resolution), and 11 (General Terms) of this Agreement, and any other provisions necessary to give effect to these provisions, shall survive any termination or expiration of this Agreement.
+
+**11.14 Titles.** The section titles in this Agreement are for convenience only and have no legal or contractual effect. The information in the “Terms of Service Overview” section and in the “Tips” and “Summary” sections is also for convenience only and has no legal or contractual effect.
+
+**11.15 Violations.** Please report any violations of this Agreement by an individual or third party by sending an email to [support@exarstudios.com](mailto:support@exarstudios.com).

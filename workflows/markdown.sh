@@ -1,1 +1,3 @@
-pandoc ../markdown/End\ User\ Agreement\ Drafts.md -f markdown+smart -t html5+smart --html-q-tags=true -o ../termsOfService.html --template ../markdown/pandocTemplate.html --metadata title="Terms of Service" --css css/app.css --columns 100
+pandoc ../markdown/TermsOfService.md -f markdown+smart -t html5+smart --html-q-tags=true -o ../termsOfService.html --template ../markdown/pandocTemplate.html --metadata title="Terms of Service" --css css/app.css --columns 100
+
+pandoc ../markdown/PrivacyPolicy.md -f markdown+smart -t html5+smart --html-q-tags=true -o ../privacyPolicy.html --template ../markdown/pandocTemplate.html --metadata title="Privacy Policy" --css css/app.css --columns 100
