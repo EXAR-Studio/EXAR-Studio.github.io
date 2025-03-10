@@ -40,8 +40,11 @@ We may analyze and make inferences from the information we collect.
 
 ## 2\. Use Of Information
 
-| Summary: We use information about you to:  Operate, improve, promote, and protect EXAR and our Platform; Communicate with you; and Personalize content.  |
+| Summary: We use information about you to:  |
 | :---- |
+| 1\. Operate, improve, promote, and protect EXAR and our Platform; |
+| 2\. Communicate with you; and |
+| 3\. Personalize content.  |
 
 **2.1 Operating our Platform.** We may use information about you described above for various business purposes related to operating our Platform, including to:
 
@@ -78,8 +81,16 @@ We may analyze and make inferences from the information we collect.
 
 ## 3\. Sharing Of Information
 
-| Summary: We do not share information about you except as described in this Privacy Policy. We may disclose personal information about you, including: 1\. to users, subscribers, or social media services, depending on how you engage with the Platform.  Information that is public on our platform is accessible to others both on and off the Platform; 2\. to our third-party service providers who help us to operate or improve our Platform; 3\. when we work with third parties for analytics and to deliver targeted advertising to you on and off the Platform; 4\. to authorities to comply with legal obligations or requests and to protect and defend our rights and property;  5\. to an affiliate or successor entity or otherwise as part of a corporate transaction;  6\. among our businesses and affiliated companies; and 7\. when you direct us to share your information.   We may also share information in a manner that does not identify you, such as de-identified or aggregated information. Such information is not subject to this Privacy Policy. |
+| Summary: We do not share information about you except as described in this Privacy Policy. We may disclose personal information about you, including: |
 | :---- |
+| 1\. to users, subscribers, or social media services, depending on how you engage with the Platform.  Information that is public on our platform is accessible to others both on and off the Platform; |
+| 2\. to our third-party service providers who help us to operate or improve our Platform; |
+| 3\. when we work with third parties for analytics and to deliver targeted advertising to you on and off the Platform; |
+| 4\. to authorities to comply with legal obligations or requests and to protect and defend our rights and property;  |
+| 5\. to an affiliate or successor entity or otherwise as part of a corporate transaction;  |
+| 6\. among our businesses and affiliated companies; and |
+| 7\. when you direct us to share your information.   |
+| We may also share information in a manner that does not identify you, such as de-identified or aggregated information. Such information is not subject to this Privacy Policy. |
 
 **3.1 Through Our Platform.** We share some of the information that we collect by displaying it on our Platform according to your user profile and account settings. Some information, such as username, is always public. Some information, such as interests, is public by default, but can be hidden on our Platform. Some information, such as gathering attendance, will always be visible to other users.
 
@@ -139,8 +150,11 @@ Users and subscribers are directly responsible for complying with all requiremen
 
 ## 5\. Your Choices
 
-| Summary: You can review and change information about you or deactivate your account in your account settings, but we may retain certain information. Consult your device settings for information about how to deactivate location-based features at any time. You have the right to opt out of receiving EXAR’s promotional messages, but you may still receive other non-promotional communications. |
+| Summary: |
 | :---- |
+| 1\. You can review and change information about you or deactivate your account in your account settings, but we may retain certain information. |
+| 2\. Consult your device settings for information about how to deactivate location-based features at any time. |
+| 3\. You have the right to opt out of receiving EXAR’s promotional messages, but you may still receive other non-promotional communications. |
 
 **5.1 Account Information.** You may update or correct your account information by editing your account settings or by sending a request to support@exarstudios.com as described in Section 6 and Section 7\. You may deactivate your account by editing your account settings. You may also request deletion of your information as described in Section 6 and Section 7\.  You will also be able to choose what information others see about you and who may contact you by using the Privacy Settings section in your Account.
 
@@ -161,8 +175,12 @@ As stated above in Section 3.4, depending on where you live, you may have the ri
 
 ## 6\. Data Rights
 
-| Summary: You may have the right to exercise data protection rights, including to request that EXAR deletes, amends, or provides you access to your information. You may have the right to opt out of the sharing or processing of your personal information for the purposes of targeted advertising. You have the right to opt out of receiving EXAR’s promotional messages, but you may still receive other communications. You can complain to your local data protection authority about the use of your information. |
+| Summary: |
 | :---- |
+| 1\. You may have the right to exercise data protection rights, including to request that EXAR deletes, amends, or provides you access to your information. |
+| 2\. You may have the right to opt out of the sharing or processing of your personal information for the purposes of targeted advertising. |
+| 3\. You have the right to opt out of receiving EXAR’s promotional messages, but you may still receive other communications. |
+| 4\. You can complain to your local data protection authority about the use of your information. |
 
 We respond to all requests that we receive from users who wish to exercise their data protection rights in accordance with applicable data protection laws. You can contact us with your request by sending an email to support@exarstudios.com. You can also request deletion of your account and personal information by clicking the “Delete account and personal information” link in your profile settings on the mobile app.
 
