@@ -449,6 +449,7 @@ a {
     cursor: pointer;
     gap: 4px;
     white-space: nowrap;
+    text-decoration: none;
 }
 
 .button.plain {
